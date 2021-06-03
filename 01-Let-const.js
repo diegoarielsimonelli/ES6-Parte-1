@@ -2,13 +2,13 @@
 // Let, Const & Var == Function Scope
 // Let & Const == Block Scope !== VAR no
 // Preferir utilizar const a no ser que queramos reasignar un nuevo valor
-// a nuestra variable
+// a nuestra variable, en ese caso utilizamos let
 
 // function foo() {
-//   for (let i = 0; i < 5; i++) {
-//     console.log(i);
-//   }
-//   console.log('Hello', i);
+// 	for (let i = 0; i < 5; i++) {
+// 		console.log(i);
+// 	}
+// 	console.log('Hello', i);
 // }
 
 // foo();
@@ -22,15 +22,15 @@
 
 // Funciones declaradas vs expresiones funcionales
 // Declarative function
-// function foo () {
-//  console.log("Foo")
+// function foo() {
+// 	console.log('Foo');
 // }
 
 // Expresion funcional
 // foo()
-// let foo = function() {
-//   console.log("Foo")
-// }
+// let foo = function () {
+// 	console.log('Foo');
+// };
 
 // const dni = 22222222;
 // dni = 2222223;
@@ -39,3 +39,19 @@
 // const name; // ESTO NO ES POSIBLE
 
 // VAR YA NO LO UTILIZAMOS
+
+// let & const
+
+// function foo() {
+//     // Scope Function
+//     var a = 5
+//     let b = 6
+//     const c = 7
+//   }
+
+//   if(true) {
+//     // Scope Bloque
+//     let x = 8;
+//   }
+
+//   console.log(x)
