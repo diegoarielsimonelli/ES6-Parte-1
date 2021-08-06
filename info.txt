@@ -1,0 +1,15 @@
+¿Qué es el hoisting?
+
+https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36
+
+¿QUÉ ES EL HOISTING en JAVASCRIPT? | JS en ESPAÑOL
+
+https://www.youtube.com/watch?v=uI6o97A4IrI&ab_channel=LaCocinadelC%C3%B3digo
+
+Var, Let, and Const – What's the Difference?
+
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+VAR, LET o CONST: ¿CUÁL DEBERÍA USAR? | JS en Español
+
+https://www.youtube.com/watch?v=bvkY9ey83yY&ab_channel=LaCocinadelC%C3%B3digo

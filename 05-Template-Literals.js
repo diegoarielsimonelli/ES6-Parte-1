@@ -1,6 +1,6 @@
 // const user = (name, lastName, age) => {
 // 	console.log(
-// 		'El nombrel del user es ' +
+// 		'El nombrel del user es ' +
 // 			name +
 // 			' y su apellido es ' +
 // 			lastName +
@@ -14,4 +14,4 @@ const user = (name, lastName, age, city) =>
 		`El nombre del user es ${name} y su apellido es ${lastName} y su edad es de ${age} y su ciudad es ${city}`
 	);
 
-user('Daniel', 'Di Salvo', 36, 'Buenos Aires');
+user('Daniel', 'Di Salvo', 36);
